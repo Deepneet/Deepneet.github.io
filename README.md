@@ -1,7 +1,9 @@
 ## 3-march,2020
 - Submitted the synopsis of project-Report Generation from Moodle
   - INTRODUCTION
-Moodle is a learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments. Moodle is designed to support both teaching and learning as it delivers a powerful set of learner- centric tools and collaborative learning environments that empowers both functionalities. It is an open-source platform, it can be customised in any way and tailored to individual needs. Its modular set up and interoperable design allows developers to create plugins and integrate external applications to achieve specific functionalities.
+    - Moodle is designed to support both teaching and learning as it delivers a powerful set of learner- centric tools and collaborative learning environments that empowers both functionalities. 
+    - It is an open-source platform, it can be customised in any way and tailored to individual needs. 
+    - Its modular set up and interoperable design allows developers to create plugins and integrate external applications to achieve specific functionalities.
    - OBJECTIVES
 The objectives behind this format are:
 •To reduce admin work by integrating the details of the students of all the different departments into a single database.
