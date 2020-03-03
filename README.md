@@ -7,7 +7,7 @@
    - OBJECTIVES
 The objectives behind this format are:
      - To reduce admin work by integrating the details of the students of all the different departments into a single database.
-     -To Ease the access for students because they can view their attendance and make up for the shortage of attendance accordingly.
+    -To Ease the access for students because they can view their attendance and make up for the shortage of attendance accordingly.
      - To save the time as manual work will be less and eliminate duplicate data entries.
       - To keep the parents informed about the student’s performance via Emails,alerts and generated reports.
 - Created this github page with the help of this link
