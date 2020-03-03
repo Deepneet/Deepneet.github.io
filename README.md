@@ -3,10 +3,11 @@
 
 - Created this github page with the help of this link
 [https://guides.github.com/features/pages/]
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## 2-march,2020
-- Importing and accessing different database in phpmyadmin.
+- Importing and accessing different databases in phpmyadmin.
  
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +30,7 @@
     - To keep the parents informed about the student’s performance via Emails,alerts and generated reports.
   - Tools to be used
     - Moodle
-    - MySql
+    
 
   - Technologies to be used
 
