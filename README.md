@@ -12,13 +12,13 @@
  
 ------------------------------------------------------------------------------------------------------------------------------
 
-## 28-march,2020
+## 28-feb,2020
 - SoftwareCarpentrySQL
 - Accessing sqlite database using queries.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 27-march,2020
+## 27-feb,2020
 - Prepared synopsis for project **Report generation from Moodle**
 - Key points of the project are:
 - INTRODUCTION
