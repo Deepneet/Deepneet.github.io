@@ -1,4 +1,4 @@
-## 3-march,2020
+## 3 march,2020
 - Submitted the synopsis of project **Report Generation from Moodle**
 
 - Created this github page with the help of this link
@@ -7,18 +7,18 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 2-march,2020
+## 2 march,2020
 - Importing and accessing different databases in phpmyadmin.
  
 ------------------------------------------------------------------------------------------------------------------------------
 
-## 28-feb,2020
+## 28 feb,2020
 - SoftwareCarpentrySQL
 - Accessing sqlite database using queries.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 27-feb,2020
+## 27 feb,2020
 - Prepared synopsis for project **Report generation from Moodle**
 - Key points of the project are:
 - INTRODUCTION
@@ -31,7 +31,7 @@
     - To keep the parents informed about the student’s performance via Emails,alerts and generated reports.
   - Tools to be used
     - Moodle
-    
+    - Mysql
 
   - Technologies to be used
 
@@ -39,7 +39,7 @@
     - HTML
     - PHP
     - CSS
-    - MySql
+    
 
 
 -----------------------------------------------------------------------------------------------------------------------------
