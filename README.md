@@ -1,5 +1,7 @@
 ## 3-march,2020
-Submitted the synopsis of project-Report Generation from Moodle
+- Submitted the synopsis of project-Report Generation from Moodle
+- Created this github page with the help of following link
+[https://guides.github.com/features/pages/]
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## 2-march,2020
