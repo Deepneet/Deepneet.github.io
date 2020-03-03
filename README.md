@@ -18,7 +18,7 @@
 
 ## 27-march,2020
 - Prepared synopsis for project **Report generation from Moodle**
--Key points of the project are:
+- Key points of the project are:
 - INTRODUCTION
     - Moodle is designed to support both teaching and learning as it delivers a powerful set of learner- centric tools and collaborative learning environments that empowers both functionalities. 
     - It is an open-source platform, it can be customised in any way and tailored to individual needs. 
