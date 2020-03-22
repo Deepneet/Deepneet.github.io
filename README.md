@@ -1,3 +1,13 @@
+## 22 march,2020
+- Working with moodle.
+- Created courses and enrolled students.
+- Marked attendence of enrolled students.
+- Used mod_attendance,mod_quiz and mod_chat plugins.
+- Exploring modules which can provide form facilities- Application form,Dataform and Database activity modules.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 ## 3 march,2020
 - Submitted the synopsis of project **Report Generation from Moodle**
 
