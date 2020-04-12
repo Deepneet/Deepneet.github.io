@@ -1,13 +1,22 @@
 
-## 19 march,2020
-- Marked attendence of enrolled students.
-- Used mod_attendance,mod_quiz and mod_chat plugins.
+## 20 march,2020
 - Exploring modules which can provide form facilities- Application form,Dataform and Database activity modules.
 
 ----------------------------------------------------------------------------------------------------------------------------
+## 19 march,2020
+- Created session and marked attendance of enrolled students.
+
+----------------------------------------------------------------------------------------------------------------------------
 ## 18 march,2020
-- Working with moodle.
-- Created courses and enrolled students.
+- Created courses in moodle using plugin mod_quiz.This plugin enables a teacher to create quizzes comprising questions         including multiple choice, matching, short-answer and numerical.
+- The teacher can allow the quiz to be attempted multiple times, with the questions shuffled or randomly selected from the     question bank. A time limit may be set.
+- Enrolled students.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+## 17 march,2020
+- Created Cohorts, i.e categories of users in moodle.
+- Created users and assigned them cohorts.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
