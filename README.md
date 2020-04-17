@@ -7,12 +7,18 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 15 april,2020
+## 16 april,2020
+- Checking database of moodle in phpmyadmin.
+- Trying to access database from moodle to fetch required information.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+## 14 april,2020
 - I tried changing password of phpmyadmin and my moodle stopped working.
 - I got this error "Error: Database connection failed It is possible that the database is overloaded or otherwise not running properly. The site administrator should also check that the database details have been correctly specified in config.php"
 - I created new user and granted all priviliges to that user and then made changes in config.php file using command
   "sudo nano/var/www/html/moodle3/moodle/config.php".
-  
+    
 ----------------------------------------------------------------------------------------------------------------------------- 
 
 ## 23 march,2020
@@ -29,28 +35,32 @@
 - The teacher can allow the quiz to be attempted multiple times, with the questions shuffled or randomly selected from the     question bank. A time limit may be set.
 - Enrolled students.
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 17 march,2020
 - Created Cohorts, i.e categories of users in moodle.
 - Created users and assigned them cohorts.
 - Created courses in moodle.
+
 -----------------------------------------------------------------------------------------------------------------------------
-
-
-## 4 march,2020
-- Submitted the synopsis of project **Report Generation from Moodle**
-
-- Created this github page with the help of this link
-[https://guides.github.com/features/pages/]
-
+## 3 march,2020
+- Using phpmyadmin.
+- Importing and accessing sqlite database(survey.db) into phpmyadmin.
+- Before importing survey.db file it will be converted to .sql file which is then coverted into a zip file.
+- There are two ways of coverting survey.db file: 
+  - Online using this link- https://www.rebasedata.com/convert-sqlite-to-mysql-online
+  - on command line using command curl- Replace file with the path to the *.DB file to be converted.
+   curl -F files[]=@file 'https://www.rebasedata.com/api/v1/convert?outputFormat=mysql&errorResponse=zip' -o output.zip
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## 2 march,2020
-- Importing and accessing different databases in phpmyadmin.
+- Submitted the synopsis of project **Report Generation from Moodle**
+
+- Created this github page with the help of this link
+[https://guides.github.com/features/pages/]
  
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## 28 feb,2020
 - SoftwareCarpentrySQL
