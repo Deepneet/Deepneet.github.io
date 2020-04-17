@@ -42,7 +42,14 @@
 - Created users and assigned them cohorts.
 - Created courses in moodle.
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
+## 4 march,2020
+- After importing database,performed operations using functionalities provided in phpmyadmin.
+- There is no inbuilt functionality for union operation ,so query will be used to perform union.
+
+----------------------------------------------------------------------------------------------------------------------------
+
 ## 3 march,2020
 - Using phpmyadmin.
 - Importing and accessing sqlite database(survey.db) into phpmyadmin.
