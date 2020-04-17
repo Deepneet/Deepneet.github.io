@@ -5,31 +5,34 @@
 - Converted the .xsls file to .csv file.
 - Imported the .csv file into database.
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 16 april,2020
 - Checking database of moodle in phpmyadmin.
 - Trying to access database from moodle to fetch required information.
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 14 april,2020
 - I tried changing password of phpmyadmin and my moodle stopped working.
 - I got this error "Error: Database connection failed It is possible that the database is overloaded or otherwise not running properly. The site administrator should also check that the database details have been correctly specified in config.php"
 - I created new user and granted all priviliges to that user and then made changes in config.php file using command
   "sudo nano/var/www/html/moodle3/moodle/config.php".
-    
------------------------------------------------------------------------------------------------------------------------------ 
+  
+---------------------------------------------------------------------------------------------------------------------------- 
 
 ## 23 march,2020
+
 - Exploring modules which can provide form facilities- Application form,Dataform and Database activity modules.
 
 ----------------------------------------------------------------------------------------------------------------------------
+
 ## 20 march,2020
 - Created Attendence activity in courses.
 - Created session and marked attendance of enrolled students .
 
 ----------------------------------------------------------------------------------------------------------------------------
+
 ## 19 march,2020
 - Created a quiz using plugin mod_quiz.This plugin enables a teacher to create quizzes comprising questions         including multiple choice, matching, short-answer and numerical.
 - The teacher can allow the quiz to be attempted multiple times, with the questions shuffled or randomly selected from the     question bank. A time limit may be set.
@@ -73,7 +76,7 @@
 - SoftwareCarpentrySQL
 - Accessing sqlite database using queries.
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 27 feb,2020
 - Prepared synopsis for project **Report generation from Moodle**
