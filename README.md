@@ -58,7 +58,7 @@
 - Importing and accessing sqlite database(survey.db) into phpmyadmin.
 - Before importing survey.db file it will be converted to .sql file which is then coverted into a zip file.
 - There are two ways of coverting survey.db file: 
-  - Online using this link- https://www.rebasedata.com/convert-sqlite-to-mysql-online
+  - Online using this link- [https://www.rebasedata.com/convert-sqlite-to-mysql-online]
   - on command line using command curl- Replace file with the path to the *.DB file to be converted.
    curl -F files[]=@file 'https://www.rebasedata.com/api/v1/convert?outputFormat=mysql&errorResponse=zip' -o output.zip
 
@@ -105,7 +105,12 @@
     
 
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
+## 24 feb,2020
+- Installation of moodle.
+- Followed the steps mentioned in following link.
+    [https://docs.moodle.org/38/en/Installation_quick_guide].
 
 
 -----------------------------------------------------------------------------------------------------------------------------
