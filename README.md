@@ -1,3 +1,21 @@
+## 20 april,2020
+-Explored following links.
+  -https://docs.moodle.org/38/en/Custom_SQL_queries_report.
+  -https://docs.moodle.org/38/en/ad-hoc_contributed_reports.
+  -https://moodle.org/mod/forum/discuss.php?d=153059.
+  -https://docs.moodle.org/38/en/Configurable_reports.
+-Creating custom SQL queries which will help in generating reports.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## 18 april,2020
+- RDBMS Concepts.
+- Data Definition Language.
+- Data Manipulation Language.
+- Attempted Quizzes,Query exercises.
+
+----------------------------------------------------------------------------------------------------------------------------
+
 ## 17 april,2020
 - Created a database using database module in moodle.The database activity module enables users to create, maintain and search a collection of entries (i.e. records).
 - Added fields in database including field name,field type and its description.
@@ -107,10 +125,24 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## 24 feb,2020
-- Installation of moodle.
-- Followed the steps mentioned in following link.
-    [https://docs.moodle.org/38/en/Installation_quick_guide].
+## 19 feb,2020
 
+Attendance plugin installation
+Installing manually at the server:
+-Go to the Moodle plugins directory; select your current Moodle version, then choose a plugin with a Download button and       download the ZIP file.
+-Upload or copy it to your Moodle server.
+-Unzip it in the right place for the plugin type.
+-In your Moodle site (as admin) go to Site administration > Notifications (for most plugin types, admin will recieve a message saying the plugin is installed).
 
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
+## 12 feb,2020
+Installation of moodle
+Step 1: Install Ubuntu sudo apt-get install vim
+Step 2: Install Apache/MySQL/PHP sudo apt install apache2 mysql-client mysql-server php libapache2-mod-php
+Step 3: Install Additional Software sudo apt install graphviz aspell ghostscript clamav php7.2-pspell php7.2-curl php7.2-gd php7.2-intl php7.2-mysql php7.2-xml php7.2-xmlrpc php7.2-ldap php7.2-zip php7.2-soap php7.2-mbstring
+-sudo service apache2 restart
+-sudo apt install git
+Step 4: Download Moodle cd /opt sudo git clone git://git.moodle.org/moodle.git cd moodle sudo git branch -a sudo git branch –track MOODLE_38_STABLE origin/MOODLE_38_STABLE sudo git checkout MOODLE_38_STABLE
+Step 5: Copy local repository to /var/www/html/ sudo cp -R /opt/moodle /var/www/html/ sudo mkdir /var/moodledata sudo chown -R www-data /var/moodledata sudo chmod -R 777 /var/moodledata sudo chmod -R 0755 /var/www/html/moodle
+Step 6: Setup MySQL Server sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf sudo service mysql restart sudo mysql -u root -p
