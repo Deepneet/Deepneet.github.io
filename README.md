@@ -1,10 +1,10 @@
 ## 20 april,2020
--Explored following links.
-  -https://docs.moodle.org/38/en/Custom_SQL_queries_report.
-  -https://docs.moodle.org/38/en/ad-hoc_contributed_reports.
-  -https://moodle.org/mod/forum/discuss.php?d=153059.
-  -https://docs.moodle.org/38/en/Configurable_reports.
--Creating custom SQL queries which will help in generating reports.
+- Explored following links.
+  - https://docs.moodle.org/38/en/Custom_SQL_queries_report.
+  - https://docs.moodle.org/38/en/ad-hoc_contributed_reports.
+  - https://moodle.org/mod/forum/discuss.php?d=153059.
+  - https://docs.moodle.org/38/en/Configurable_reports.
+- Creating custom SQL queries which will help in generating reports.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
