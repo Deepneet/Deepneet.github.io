@@ -2,6 +2,7 @@
 - Generating User's report.
 - Creating SQL reports.
 - Generating SQL queries to be used in SQL reports.
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## 24 april,2020
