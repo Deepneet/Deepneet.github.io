@@ -1,10 +1,29 @@
+## 27 april,2020
+- Generating User's report.
+- Creating SQL reports.
+- Generating SQL queries to be used in SQL reports.
+----------------------------------------------------------------------------------------------------------------------------
+
+## 24 april,2020
+-Roadmap of moodle[https://docs.moodle.org/dev/Roadmap]
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## 22 april,2020
+- Installed block plugin following these steps:
+  -  Download the Configurable Reports installation file and unzip it to the \blocks directory in your Moodle folder.
+  -  Be sure that the final name of the directory is: configurable_reports, the full path in your Moodle installation will        be blocks/configurable_reports
+  -  Login to Moodle as Administrator and click Notifications under Site Administration.
+
+----------------------------------------------------------------------------------------------------------------------------
+
 ## 20 april,2020
 - Explored following links.
   - https://docs.moodle.org/38/en/Custom_SQL_queries_report.
   - https://docs.moodle.org/38/en/ad-hoc_contributed_reports.
   - https://moodle.org/mod/forum/discuss.php?d=153059.
   - https://docs.moodle.org/38/en/Configurable_reports.
-- Creating custom SQL queries which will help in generating reports.
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
